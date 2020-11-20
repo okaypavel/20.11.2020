@@ -1,0 +1,98 @@
+.text-main-nav {
+    line-height: 0;
+    padding-top: 20px;
+}
+.main-logo-center {
+    padding-left: 455px;
+}
+.nav-main {
+    background-color: white;
+}
+.main-button {
+    border-color: rgb(182, 20, 20);
+    color: black;
+}
+.main-button:hover {
+    border-color: rgb(182, 20, 20);
+    background-color: rgb(182, 20, 20);
+}
+.main-nav-text {
+    background-color: rgb(182, 20, 20);
+    padding-left: 450px;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.bg-img{
+    background-image: url(./img/9.png);
+    height: 77.8vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-text-main {
+    color: black;
+    text-align: center;
+}
+.card-img-roz {
+    width: 100%;
+    height: 100%;
+    flex-shrink: none;
+}
+.card-padding-main {
+    padding-left: 80px;
+    margin-top: 20px;
+}
+.text-img {
+    background-color: rgb(182, 20, 20);
+    position: absolute;
+    left: 0;
+    top: 82.8%;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+.grid-color {
+    background-color: rgb(182, 20, 20);
+    margin-top: 20px;
+    color: black;
+}
+.p-pad {
+    padding-top: 10px;
+}
+.p-text {
+    font-size: small;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.text-a {
+    color: white;
+}
+.text-a:hover {
+    color: black;
+}
+.color-pad {
+    background-color: red;
+    width: 200px;
+    margin-top: 20px;
+    text-align: center;
+}
+.main-back-text {
+    background-color: rgb(243, 0, 0);
+    padding-left: 450px;
+    padding-top: 10px;
+}
+.main-button-back {
+    border-color: rgb(243, 0, 0);
+    color: black;
+}
+.main-button-back:hover {
+    border-color: rgb(243, 0, 0);
+    background-color: rgb(243, 0, 0);
+}
